@@ -30,7 +30,7 @@ li{margin:.35rem 0}
 .steps li{margin-bottom:.75rem}
 .shots{display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:1rem;margin:1.5rem 0}
 figure{margin:0}
-img{max-width:100%;height:auto}
+img,video{max-width:100%;height:auto}
 .shots img{border:1px solid var(--muted);border-radius:10px}
 figcaption{font-weight:700;margin-top:.25rem}
 .site-footer{border-top:3px solid var(--accent);padding:1.25rem 0 2rem;background:var(--card)}
