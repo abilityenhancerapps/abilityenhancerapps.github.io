@@ -1,6 +1,6 @@
 # abilityenhancerapps.com
 
-Static, information-only website for **Ability Enhancer Apps**. Plain HTML + CSS. No JavaScript, forms, cookies, trackers or external fonts.
+Static, information-only website for **Ability Enhancer Apps**. Plain HTML + CSS. No forms, cookies or external fonts. The only script is the cookie-free GoatCounter visitor counter.
 
 ## Pages
 - `/` Home · `/speakmytalk/` · `/speakmytalk/guide/` · `/speakmytalk/privacy/` · `/accessibility/` · `/about/` · `404.html`
