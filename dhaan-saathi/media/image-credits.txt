@@ -12,13 +12,12 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0), https://cre
 Changes: source photo re-saved as JPEG, shown inside the app confirmation screen, then app screenshots resized/cropped for video composition; no disease features intentionally altered. The Hugging Face card states its dataset was reformatted to Hugging Face standards.
 No endorsement by the creators is implied.
 
-Important: the source photo label is leaf_blast. The displayed app suggestion is sheath blight (73%), with hispa (19%) and blast (5%) as alternatives. This is an illustrative mismatch, NOT a confirmed diagnosis. Scores are model outputs, not field accuracy. Explicit warning overlays accompany result/control scenes.
-
-Screenshots: genuine Dhaan Saathi v6 Android emulator captures. Selected regions enlarged/cropped for legibility; no fabricated app controls. Black emulator camera view and broken wrapped Close label in the active Stop state are not used. Optional Stop speaking is described in narration rather than replacing or repairing UI in a screenshot.
-No user regression photograph, Hung raw dataset image, generated farmer imagery or promotional treatment claim is included.
-
-Project credit: A project by Dr. Chindanoor Rajesh
-Website: https://abilityenhancerapps.com
-Contact: abilityenhancerapps@gmail.com
-
-Training dataset acknowledgement (not image provenance for this video): preserve exact Hung English/Hindi disclaimer from ../WEBSITE_CREDIT.reference.md and all existing app dataset credits in the eventual website section. Hung's permission is not being used to authorize redistributing raw photos.
+Revision notes:
+Only the confirmation photo is used. No model diagnosis, scores or result screen is shown. Source label leaf_blast is not represented as a successful app diagnosis.
+Screenshots are genuine v6 Android emulator captures, scaled intact, not fabricated. The video does not claim to show v7 or physical-phone testing.
+Original introduction (00:00–00:26.800) preserved from ../dhaan-saathi.mp4: original imagery, narration, captions and source notes. Original opening illustrations are AI-generated, not real farmers or field evidence. Original statistical sources are reproduced in statistic-sources.txt; no new figures added. Subsequent original future-feature promises are omitted.
+Voice: en-US-JennyNeural, +5%, matching original; no music.
+Hindi subtitles/transcript are a meaning-aligned translation, not independently human-reviewed. Narration and burned-in captions are English.
+A project by Dr. Chindanoor Rajesh.
+abilityenhancerapps.com
+abilityenhancerapps@gmail.com

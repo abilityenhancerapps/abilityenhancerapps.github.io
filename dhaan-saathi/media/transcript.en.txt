@@ -1,46 +1,23 @@
-Meet Dhaan Saathi, a free, offline rice photo checker.
+Meet Dhaan Saathi, a companion for your rice. It is a free phone app for rice farmers.
 
-This experimental app needs field testing.
+Around the world, pests and diseases destroy about 30 percent of the rice harvest.
 
-Take a clear photo of the rice plant.
+India grew a record 150 million tonnes of rice in 2024-25. Yet 86 percent of its farms are smaller than 2 hectares, so every lost plant hurts.
 
-The checker runs on your phone, without an internet connection.
+And more than half of India's farm households got no technical advice at all.
 
-The result is a model suggestion, not a confirmed diagnosis.
+Dhaan Saathi brings rice photo checking to your phone. Free, and offline.
 
-It may confuse diseases, damage, or nutrient problems.
+Choose Rice. Take a clear photo, or select one you have saved.
 
-Results stay silent by default.
+Confirm your photo. The checker runs on the phone, without internet.
 
-Tap Hear results if you want speech.
+Use English or Hindi. Read on screen, or tap Hear when you want spoken help.
 
-Use Stop speaking to end playback.
+Home takes you back for another photo. Close exits the app.
 
-Home returns to the starting screen for another photo.
+We plan to add more Indian languages and support for other crops in future.
 
-Close exits the app. These are separate controls.
+This experimental tool needs field testing. Help us explore its potential.
 
-Use English or Hindi.
-
-Read the result on screen, or choose to hear it when you need spoken help.
-
-The checker can be confidently wrong.
-
-A healthy result is not proof that a plant is disease-free.
-
-Ask a local agricultural expert to assess suspected problems.
-
-We welcome agricultural organisations and rice growers
-
-who can help evaluate this experimental tool under real field conditions.
-
-Dhaan Saathi. A project by Dr. Chindanoor Rajesh.
-
-Find out more at abilityenhancerapps.com.
-
-
---- Source notes / स्रोत विवरण ---
-Image credits and license: image-credits.txt
-Photo source: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd
-CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-Source image label: leaf_blast. App suggestion: sheath blight. This example is a mismatch, not a confirmed diagnosis.
+A project by Dr. Chindanoor Rajesh. Visit abilityenhancerapps.com.
