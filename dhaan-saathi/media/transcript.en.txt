@@ -1,0 +1,46 @@
+Meet Dhaan Saathi, a free, offline rice photo checker.
+
+This experimental app needs field testing.
+
+Take a clear photo of the rice plant.
+
+The checker runs on your phone, without an internet connection.
+
+The result is a model suggestion, not a confirmed diagnosis.
+
+It may confuse diseases, damage, or nutrient problems.
+
+Results stay silent by default.
+
+Tap Hear results if you want speech.
+
+Use Stop speaking to end playback.
+
+Home returns to the starting screen for another photo.
+
+Close exits the app. These are separate controls.
+
+Use English or Hindi.
+
+Read the result on screen, or choose to hear it when you need spoken help.
+
+The checker can be confidently wrong.
+
+A healthy result is not proof that a plant is disease-free.
+
+Ask a local agricultural expert to assess suspected problems.
+
+We welcome agricultural organisations and rice growers
+
+who can help evaluate this experimental tool under real field conditions.
+
+Dhaan Saathi. A project by Dr. Chindanoor Rajesh.
+
+Find out more at abilityenhancerapps.com.
+
+
+--- Source notes / स्रोत विवरण ---
+Image credits and license: image-credits.txt
+Photo source: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Source image label: leaf_blast. App suggestion: sheath blight. This example is a mismatch, not a confirmed diagnosis.

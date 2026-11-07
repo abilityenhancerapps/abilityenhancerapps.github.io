@@ -1,0 +1,24 @@
+Dhaan Saathi explainer — image credits and source notes
+
+Field photograph shown inside genuine v6 Android emulator screenshots:
+leaf_blast(21).jpg, source-labelled leaf_blast, 480×640; JPEG re-save supplied for emulator input.
+Rice Leaf Disease Classification Bd / IoT-RiceMobileNet.
+Creators cited by the dataset card: Khawja Imran Masud, Md Yasin Zihad, Mehedi Hasan Shuvo, Mst Raonik Jannat, Jia Uddin, Sahara Ali.
+Masud et al. (2026), “IoT-RiceMobileNet: An improved lightweight MobileNetV2 Model for real-time multi-class rice disease detection using IoT”, PLOS One 21, e0356383.
+Dataset citation: eimran. (2026). eimran/IoT-RiceMobileNet: IoT-RiceMobileNet v1.0.0 (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21140529
+Hugging Face source and license declaration: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd
+Dataset card checked November 7, 2026: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd/raw/main/README.md
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+Changes: source photo re-saved as JPEG, shown inside the app confirmation screen, then app screenshots resized/cropped for video composition; no disease features intentionally altered. The Hugging Face card states its dataset was reformatted to Hugging Face standards.
+No endorsement by the creators is implied.
+
+Important: the source photo label is leaf_blast. The displayed app suggestion is sheath blight (73%), with hispa (19%) and blast (5%) as alternatives. This is an illustrative mismatch, NOT a confirmed diagnosis. Scores are model outputs, not field accuracy. Explicit warning overlays accompany result/control scenes.
+
+Screenshots: genuine Dhaan Saathi v6 Android emulator captures. Selected regions enlarged/cropped for legibility; no fabricated app controls. Black emulator camera view and broken wrapped Close label in the active Stop state are not used. Optional Stop speaking is described in narration rather than replacing or repairing UI in a screenshot.
+No user regression photograph, Hung raw dataset image, generated farmer imagery or promotional treatment claim is included.
+
+Project credit: A project by Dr. Chindanoor Rajesh
+Website: https://abilityenhancerapps.com
+Contact: abilityenhancerapps@gmail.com
+
+Training dataset acknowledgement (not image provenance for this video): preserve exact Hung English/Hindi disclaimer from ../WEBSITE_CREDIT.reference.md and all existing app dataset credits in the eventual website section. Hung's permission is not being used to authorize redistributing raw photos.
