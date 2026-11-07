@@ -1,0 +1,23 @@
+Dhaan Saathi explainer — image credits and source notes
+
+Field photograph shown inside genuine v6 Android emulator screenshots:
+leaf_blast(21).jpg, source-labelled leaf_blast, 480×640; JPEG re-save supplied for emulator input.
+Rice Leaf Disease Classification Bd / IoT-RiceMobileNet.
+Creators cited by the dataset card: Khawja Imran Masud, Md Yasin Zihad, Mehedi Hasan Shuvo, Mst Raonik Jannat, Jia Uddin, Sahara Ali.
+Masud et al. (2026), “IoT-RiceMobileNet: An improved lightweight MobileNetV2 Model for real-time multi-class rice disease detection using IoT”, PLOS One 21, e0356383.
+Dataset citation: eimran. (2026). eimran/IoT-RiceMobileNet: IoT-RiceMobileNet v1.0.0 (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21140529
+Hugging Face source and license declaration: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd
+Dataset card checked November 7, 2026: https://huggingface.co/datasets/Project-AgML/rice_leaf_disease_classification_bd/raw/main/README.md
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+Changes: source photo re-saved as JPEG, shown inside the app confirmation screen, then app screenshots resized/cropped for video composition; no disease features intentionally altered. The Hugging Face card states its dataset was reformatted to Hugging Face standards.
+No endorsement by the creators is implied.
+
+Revision notes:
+Only the confirmation photo is used. No model diagnosis, scores or result screen is shown. Source label leaf_blast is not represented as a successful app diagnosis.
+Screenshots are genuine v6 Android emulator captures, scaled intact, not fabricated. The video does not claim to show v7 or physical-phone testing.
+Original introduction (00:00–00:26.800) preserved from ../dhaan-saathi.mp4: original imagery, narration, captions and source notes. Original opening illustrations are AI-generated, not real farmers or field evidence. Original statistical sources are reproduced in statistic-sources.txt; no new figures added. Subsequent original future-feature promises are omitted.
+Voice: en-US-JennyNeural, +5%, matching original; no music.
+Hindi subtitles/transcript are a meaning-aligned translation, not independently human-reviewed. Narration and burned-in captions are English.
+A project by Dr. Chindanoor Rajesh.
+abilityenhancerapps.com
+abilityenhancerapps@gmail.com

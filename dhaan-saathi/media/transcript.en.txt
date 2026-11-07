@@ -1,0 +1,23 @@
+Meet Dhaan Saathi, a companion for your rice. It is a free phone app for rice farmers.
+
+Around the world, pests and diseases destroy about 30 percent of the rice harvest.
+
+India grew a record 150 million tonnes of rice in 2024-25. Yet 86 percent of its farms are smaller than 2 hectares, so every lost plant hurts.
+
+And more than half of India's farm households got no technical advice at all.
+
+Dhaan Saathi brings rice photo checking to your phone. Free, and offline.
+
+Choose Rice. Take a clear photo, or select one you have saved.
+
+Confirm your photo. The checker runs on the phone, without internet.
+
+Use English or Hindi. Read on screen, or tap Hear when you want spoken help.
+
+Home takes you back for another photo. Close exits the app.
+
+We plan to add more Indian languages and support for other crops in future.
+
+This experimental tool needs field testing. Help us explore its potential.
+
+A project by Dr. Chindanoor Rajesh. Visit abilityenhancerapps.com.

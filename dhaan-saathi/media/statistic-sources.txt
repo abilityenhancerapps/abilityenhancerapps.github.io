@@ -1,0 +1,20 @@
+Dhaan Saathi video – statistic sources (all opened and checked Nov 3, 2026)
+
+1. ~30% of global rice yield lost to pathogens and pests (range 24.6–40.9%)
+   Savary S. et al., "The global burden of pathogens and pests on major food crops", Nature Ecology & Evolution 3, 430–439 (2019).
+   https://www.nature.com/articles/s41559-018-0793-y — abstract: "rice (30.0% (24.6–40.9%))"
+
+2. India rice production record 150 million tonnes in 2024-25
+   PIB (Govt. of India), Final estimates of crop production 2024-25, 20 Nov 2025.
+   https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192315 — "Rice – 1,501.84 lakh tonnes (Record)" (= 150.18 Mt)
+
+3. 86% of farms under 2 hectares
+   Agriculture Census 2015-16 (Phase I) report: "small and marginal holdings taken together (0.00-2.00 ha.) constituted 86.08% of the total holdings"
+   https://www.fao.org/fileadmin/templates/ess/ess_test_folder/World_Census_Agriculture/WCA_2020/WCA_2020_new_doc/IND_REP_ENG_2015_2016.pdf
+   Also PIB: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1906888 ("about 86 per cent")
+
+4. More than half of farm households got no technical advice (2018-19)
+   Foundation for Agrarian Studies, analysis of NSO Situation Assessment Survey 2019 (77th round): ~49% (kharif) and ~42% (rabi) received any technical advice; "more than half of the agricultural households in India did not have access to any technical advice".
+   https://fas.org.in/access-to-information-and-agriculture-extension-services-for-farmer-households-evidence-from-the-situation-assessment-surveys/
+
+Visuals: AI-generated illustrations (no real people).
