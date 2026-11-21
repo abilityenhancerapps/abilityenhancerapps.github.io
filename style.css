@@ -43,3 +43,5 @@ summary{cursor:pointer;font-weight:700;padding:.5rem 0;min-height:44px}
 figcaption{font-weight:700;margin-top:.25rem}
 .site-footer{border-top:3px solid var(--accent);padding:1.25rem 0 2rem;background:var(--card)}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+a.linkedin-icon{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;margin-inline:.15em;padding:.15rem;color:var(--link);text-decoration:none}
+a.linkedin-icon svg{width:1.05rem;height:1.05rem;display:block}
